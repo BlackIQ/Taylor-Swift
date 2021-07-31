@@ -1,3 +1,5 @@
+[![Repository Size](https://img.shields.io/github/repo-size/BlackIQ/Taylor-Swift)](https://github.com/BlackIQ/Taylor-Swift)
+
 # Taylor Swift
 
 All Taylor Swift albums, singles and wiki.
