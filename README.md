@@ -1,3 +1,5 @@
+[![Wallpaper](https://github.com/BlackIQ/Taylor-Swift/blob/main/wallpapers/wallpaper1.jpg)](.)
+
 [![Repository Size](https://img.shields.io/github/repo-size/BlackIQ/Taylor-Swift)](https://github.com/BlackIQ/Taylor-Swift)
 
 # Taylor Swift
