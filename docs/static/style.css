@@ -1,12 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
+body {
+    background-color: white;
+}
+
 .first {
     font-family: 'Roboto', sans-serif;
-    background: url('background.jpg') no-repeat center center fixed;
+    background: url('background.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    height: 100vh;
     padding: 5%;
 }
 .first .heading {
@@ -17,5 +22,15 @@
 }
 
 .main {
+    background-color: #f1f1f1;
     padding: 5%;
+}
+
+.albums {
+    background-color: #f6f6f6;
+    border: solid 1px white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+    height: 50vh;
+    padding: 3%;
 }
