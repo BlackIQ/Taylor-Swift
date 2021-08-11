@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.first {
+    font-family: 'Roboto', sans-serif;
+    background: url('background.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    padding: 5%;
+}
+.first .heading {
+    font-size: 50px;
+}
+.first .qu {
+    font-size: 25px;
+}
+
+.main {
+    padding: 5%;
+}
