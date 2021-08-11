@@ -1,2 +1,9 @@
-# Taylor-Swift
-All Taylor Swift albums. I Love you :heart: Taylor!
+[![Repository Size](https://img.shields.io/github/repo-size/BlackIQ/Taylor-Swift)](https://github.com/BlackIQ/Taylor-Swift)
+
+# Taylor Swift
+
+All Taylor Swift albums, singles and wiki.
+
+Everything will add.
+
+I love you Taylor Swift :heart:
