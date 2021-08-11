@@ -31,6 +31,18 @@ body {
     border: solid 1px white;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 10px;
-    height: 50vh;
+    height: auto;
     padding: 3%;
+}
+.albums .alname {
+    text-decoration: none;
+    color: #0437F2;
+}
+.albums .goto {
+    text-decoration: none;
+    color: #1F51FF;
+}
+.albums .info {
+    text-decoration: none;
+    color: #6f00ff;
 }
